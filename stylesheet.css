@@ -1,0 +1,52 @@
+*{
+    font-family: 'poppins', sans-serif;
+}
+
+.navbar-brand{
+    color: #fff;
+    font-weight: 600;
+    Padding-top: 12px;
+    
+}
+.logo-image{
+    width: 55px;
+    height: 5;
+    border-radius: 30% 30%;
+    overflow: hidden;
+    padding-top: 5%;
+    margin-bottom: 8px ;
+}
+
+.nav-link {
+      color: #fff;
+}
+
+.navbar{
+   background-color:rgba(0, 128, 0, 0.829);
+   height: 85px;
+   width: 100%;
+   
+}
+
+.banner{
+    background-image: url(../images/img5.jpg);
+    background-size: cover;
+    background-repeat: no repeat;
+    padding: 100px 0;
+    width: 100%;
+}
+
+.text{
+    color: rgba(47, 0, 255, 0.829);
+    font-size: xx-large;
+}
+
+.battery{
+    background-color: rgba(128, 128, 128, 0.062);
+}
+.heading{
+    font-size: x-large;
+    color: red;
+}
+
+    
